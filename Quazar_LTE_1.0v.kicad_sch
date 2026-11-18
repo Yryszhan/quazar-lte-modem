@@ -1,0 +1,824 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "6402a3c2-923e-422d-9f45-389ff72551be")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 63.5 92.71) (xy 66.04 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "028a5143-348a-40ea-a057-b186bd3c222e")
+	)
+	(wire
+		(pts
+			(xy 66.04 76.2) (xy 63.5 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02a53265-6639-4cd9-9196-bf3cc0e9bdde")
+	)
+	(wire
+		(pts
+			(xy 121.92 124.46) (xy 127 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08a1e022-e7ab-4078-8c42-880be879f884")
+	)
+	(wire
+		(pts
+			(xy 114.3 96.52) (xy 127 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a3712b4-cdd7-49f0-b8de-e0ba5c0e9fef")
+	)
+	(wire
+		(pts
+			(xy 125.73 116.84) (xy 127 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ce0d063-7236-44d3-a0bd-d3e300d8f13b")
+	)
+	(wire
+		(pts
+			(xy 123.19 121.92) (xy 127 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "219571b3-91a0-4da5-97b1-464d2282cab3")
+	)
+	(wire
+		(pts
+			(xy 63.5 76.2) (xy 63.5 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23e18924-d34e-47ea-ab9b-bb529e808b35")
+	)
+	(wire
+		(pts
+			(xy 116.84 81.28) (xy 116.84 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b35b8a7-e630-467d-8053-3827f38c92f6")
+	)
+	(wire
+		(pts
+			(xy 114.3 99.06) (xy 125.73 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f48a283-8958-49c7-9be3-35e26a21920a")
+	)
+	(wire
+		(pts
+			(xy 66.04 118.11) (xy 63.5 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38aacc04-b164-435b-bc14-0c7e38619eac")
+	)
+	(wire
+		(pts
+			(xy 66.04 125.73) (xy 58.42 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39bccf71-d482-4ad6-834b-45da9ee5bf34")
+	)
+	(wire
+		(pts
+			(xy 66.04 95.25) (xy 60.96 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d6a3630-261f-4f0a-a615-8c7cf93fdbae")
+	)
+	(wire
+		(pts
+			(xy 124.46 119.38) (xy 127 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40c1c2a8-fec7-4418-a001-077a022fa406")
+	)
+	(wire
+		(pts
+			(xy 114.3 101.6) (xy 124.46 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40c49515-da06-47c7-8af2-fdf9353ce86e")
+	)
+	(wire
+		(pts
+			(xy 63.5 118.11) (xy 63.5 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "478405bb-b0c6-4ce5-a7db-4b45528623d8")
+	)
+	(wire
+		(pts
+			(xy 123.19 104.14) (xy 123.19 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "531bc11e-6773-49c6-820b-a0e5f3fef07a")
+	)
+	(wire
+		(pts
+			(xy 66.04 100.33) (xy 60.96 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a5dcd8b-92b7-4694-a078-ed6ecb89fcc1")
+	)
+	(wire
+		(pts
+			(xy 60.96 95.25) (xy 60.96 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6dead368-9066-4d0f-9a21-89dbdec7e5d7")
+	)
+	(wire
+		(pts
+			(xy 124.46 101.6) (xy 124.46 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ff1d1cb-2a89-4c5b-b97e-b66308649365")
+	)
+	(wire
+		(pts
+			(xy 116.84 116.84) (xy 116.84 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8926d412-735a-469c-a3eb-081ee52b6990")
+	)
+	(wire
+		(pts
+			(xy 60.96 120.65) (xy 66.04 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ead552e-a6e1-4abc-bd2c-b48d571a4afa")
+	)
+	(wire
+		(pts
+			(xy 58.42 97.79) (xy 66.04 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a218d75-13de-49f0-bc99-61aaa91bd0c2")
+	)
+	(wire
+		(pts
+			(xy 121.92 106.68) (xy 121.92 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b0e60b0-1d54-42c7-b494-6d268f2e790b")
+	)
+	(wire
+		(pts
+			(xy 58.42 125.73) (xy 58.42 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e70cfb6-63e2-4d49-a734-76777c73ce04")
+	)
+	(wire
+		(pts
+			(xy 125.73 99.06) (xy 125.73 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0f8a4ea-5095-4908-baee-8b8833332226")
+	)
+	(wire
+		(pts
+			(xy 60.96 73.66) (xy 66.04 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8478862-363a-429a-99e5-b34d28f29f4b")
+	)
+	(wire
+		(pts
+			(xy 116.84 92.71) (xy 114.3 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c17d0ad0-bcb7-4b1b-a8c5-5a6967654e44")
+	)
+	(wire
+		(pts
+			(xy 114.3 106.68) (xy 121.92 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d58db3f9-7235-4925-b26b-b4c05dda7247")
+	)
+	(wire
+		(pts
+			(xy 63.5 102.87) (xy 66.04 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da273ac2-5921-4737-9f90-48319d7777a3")
+	)
+	(wire
+		(pts
+			(xy 114.3 81.28) (xy 116.84 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dba948a7-d1e7-4394-a98f-394429cc3d09")
+	)
+	(wire
+		(pts
+			(xy 114.3 116.84) (xy 116.84 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "def5f22c-02c1-4f90-975e-623b27d11409")
+	)
+	(wire
+		(pts
+			(xy 114.3 104.14) (xy 123.19 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "effe4c75-e757-4f5b-8a3b-e55479951310")
+	)
+	(wire
+		(pts
+			(xy 116.84 105.41) (xy 127 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f068c44c-069c-47cf-85ea-f9dc156741ab")
+	)
+	(wire
+		(pts
+			(xy 60.96 100.33) (xy 60.96 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1d79003-a319-489e-b70a-58486b61fc56")
+	)
+	(sheet
+		(at 127 92.71)
+		(size 48.26 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "3768f91b-6cd5-4912-b50d-18f5760ebc85")
+		(property "Sheetname" "POWER"
+			(at 127 91.9984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 127 107.2646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "MODEM_VBAT" input
+			(at 127 96.52 180)
+			(uuid "afb53cc1-8303-4a50-bcd6-e72357120618")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_5V" input
+			(at 127 105.41 180)
+			(uuid "80c22e3b-ca8a-4acc-8b71-9bbe91979b74")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Quazar_LTE_1.0v"
+				(path "/6402a3c2-923e-422d-9f45-389ff72551be"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 66.04 69.85)
+		(size 48.26 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "77120419-caed-442a-9207-7717c0f46cb0")
+		(property "Sheetname" "DEBUG"
+			(at 66.04 69.1384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "debug.kicad_sch"
+			(at 66.04 84.4046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PWRKEY" input
+			(at 66.04 73.66 180)
+			(uuid "a35bd4a5-e912-4abf-9ade-b77162746b02")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RESET_N" input
+			(at 66.04 76.2 180)
+			(uuid "3294113b-a590-4771-bd30-c9e4517322c9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_BOOT" input
+			(at 114.3 81.28 0)
+			(uuid "7a54f740-405a-4d8d-9f3a-b4eb7bdb5a1f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Quazar_LTE_1.0v"
+				(path "/6402a3c2-923e-422d-9f45-389ff72551be"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 66.04 114.3)
+		(size 48.26 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "7d23ee79-07a0-4993-b0ab-e0a473d08a47")
+		(property "Sheetname" "USB"
+			(at 66.04 113.5884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb.kicad_sch"
+			(at 66.04 128.8546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_5V" input
+			(at 114.3 116.84 0)
+			(uuid "51c58e0d-4fb4-45ae-ac4d-36bceb40532e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_VBUS_SENSE" input
+			(at 66.04 125.73 180)
+			(uuid "794f5091-38ec-4585-be61-8ab8f25dd983")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_D_N" input
+			(at 66.04 118.11 180)
+			(uuid "81dfc7af-f6e0-4af3-9531-79354960493b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_D_P" input
+			(at 66.04 120.65 180)
+			(uuid "dd7006c0-e0fd-4eef-8f29-c8145254afd9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Quazar_LTE_1.0v"
+				(path "/6402a3c2-923e-422d-9f45-389ff72551be"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 114.3)
+		(size 48.26 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "9f9ca910-ca6a-42eb-bf84-a20aa3ad8226")
+		(property "Sheetname" "SIM"
+			(at 127 113.5884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sim.kicad_sch"
+			(at 127 127.5846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USIM1_CLK" input
+			(at 127 116.84 180)
+			(uuid "cc8ccebe-631f-489d-88c9-ed9679ed41c5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USIM1_DATA" input
+			(at 127 119.38 180)
+			(uuid "96581015-d396-4ab8-8e14-86426ad654d9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USIM1_RST" input
+			(at 127 121.92 180)
+			(uuid "f581f9d2-2233-4bf4-b5d3-00f6c04b22bf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USIM1_VDD" input
+			(at 127 124.46 180)
+			(uuid "61d350aa-29cb-4688-a739-de324e9d3bbe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Quazar_LTE_1.0v"
+				(path "/6402a3c2-923e-422d-9f45-389ff72551be"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 66.04 90.17)
+		(size 48.26 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ffa85d8d-77d3-4e9c-a024-25984eddc4bb")
+		(property "Sheetname" "LTE_module"
+			(at 66.04 89.4584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "lte_module.kicad_sch"
+			(at 66.04 109.8046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "MODEM_VBAT" input
+			(at 114.3 96.52 0)
+			(uuid "aeb2e408-cca1-4a0f-91db-ead38baeadce")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_VBUS_SENSE" input
+			(at 66.04 97.79 180)
+			(uuid "2af08256-90b7-4cf6-8cf4-e4729b4bd247")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USIM1_CLK" input
+			(at 114.3 99.06 0)
+			(uuid "63613e83-b64f-43c0-8c3d-fbf291e56e4e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USIM1_DATA" input
+			(at 114.3 101.6 0)
+			(uuid "64adea28-ab3e-4429-9da9-4e146f4d2c1a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USIM1_RST" input
+			(at 114.3 104.14 0)
+			(uuid "f94cf242-3560-4e20-8c70-a4d777e46802")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USIM1_VDD" input
+			(at 114.3 106.68 0)
+			(uuid "76ded3d8-6287-4c91-a4f7-31792ef8db5c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWRKEY" input
+			(at 66.04 95.25 180)
+			(uuid "9273995a-485b-45ef-9029-9f733843eef7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RESET_N" input
+			(at 66.04 92.71 180)
+			(uuid "a8bab885-ce2a-487e-b6a0-96767f8da5b9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_BOOT" input
+			(at 114.3 92.71 0)
+			(uuid "fd75d178-9dfe-4fb7-ac0e-aa5fe102ee66")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_D_N" input
+			(at 66.04 102.87 180)
+			(uuid "7728a843-a505-490f-ae0e-c5fb6b7fc43f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_D_P" input
+			(at 66.04 100.33 180)
+			(uuid "87c5a09b-eb8d-48f3-a1c5-02ceec01cb8b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Quazar_LTE_1.0v"
+				(path "/6402a3c2-923e-422d-9f45-389ff72551be"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
